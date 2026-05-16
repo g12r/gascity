@@ -306,9 +306,9 @@ Success! You just dispatched work to an AI agent and gotten results back.
 You've created a city, slung work to agents, added a project as a rig, and slung
 work to that rig. From here:
 
-- **[Agents](/tutorials/02-agents)** — go deeper on agent configuration:
+- **[Agents](/docs/tutorials/02-agents)** — go deeper on agent configuration:
   prompts, sessions, scope, working directories
-- **[Sessions](/tutorials/03-sessions)** — interactive conversations with
+- **[Sessions](/docs/tutorials/03-sessions)** — interactive conversations with
   agents, polecats and crew
-- **[Formulas](/tutorials/05-formulas)** — multi-step workflow templates with
+- **[Formulas](/docs/tutorials/05-formulas)** — multi-step workflow templates with
   dependencies and variables
